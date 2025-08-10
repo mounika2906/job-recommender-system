@@ -1,4 +1,6 @@
 # AI-Powered Job Recommendation System
+![image1.png](https://github.com/mounika2906/job-recommender-system/blob/ab823fe0cc9bb6c056e2e2e60b7cfc4a1a773c4e/jrs%20-%201.png)
+![image2.png](https://github.com/mounika2906/job-recommender-system/blob/ab823fe0cc9bb6c056e2e2e60b7cfc4a1a773c4e/jrs%20-%202.png)
 
 ## Overview
 
