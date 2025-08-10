@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+jobrec-env/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python environment variables file
+.env
+
+# macOS files
+.DS_Store
+
+# VS Code settings folder
+.vscode/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Other files you might want to ignore
+*.sqlite3
+*.db
